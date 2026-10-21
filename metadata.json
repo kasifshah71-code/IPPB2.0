@@ -1,0 +1,6 @@
+{
+  "name": "India Post Payments Bank (IPPB)",
+  "description": "IPPB Mobile Banking portal with MPIN authentication (4444), live balance, fund transfers to other bank accounts, and transaction history for Lalit Sherke.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
