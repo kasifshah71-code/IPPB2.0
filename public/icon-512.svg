@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="iciciGrad512" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F37021" />
+      <stop offset="50%" stop-color="#B02A30" />
+      <stop offset="100%" stop-color="#8C1D24" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#iciciGrad512)" />
+  <circle cx="256" cy="165" r="38" fill="#FFFFFF" />
+  <path d="M 230 240 L 282 240 L 282 380 L 230 380 Z" fill="#FFFFFF" />
+  <rect x="204" y="230" width="104" height="26" rx="8" fill="#FFFFFF" />
+  <rect x="204" y="364" width="104" height="26" rx="8" fill="#FFFFFF" />
+</svg>
